@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33920.266
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CVENTITY", "CVENTITY\CVENTITY.csproj", "{2E9AB9FC-7D75-4CA5-8D20-4F4CD8FAC0E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E9AB9FC-7D75-4CA5-8D20-4F4CD8FAC0E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E9AB9FC-7D75-4CA5-8D20-4F4CD8FAC0E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E9AB9FC-7D75-4CA5-8D20-4F4CD8FAC0E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E9AB9FC-7D75-4CA5-8D20-4F4CD8FAC0E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE33E2A6-0ECD-46D4-875A-BA3D04CF14A5}
+	EndGlobalSection
+EndGlobal

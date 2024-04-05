@@ -1,0 +1,47 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="CVENTITY.admin.Admin" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Admin Paneli</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">   
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <nav class="navbar navbar-inverse" style="background-color:#006064">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="#">Kişisel Blog</a>
+                </div>
+                <ul class="nav navbar-nav" >
+                    <li><a href="../Default.aspx">Ana Sayfa</a> </li>  
+                    <li><a href="EgitimHayatim.aspx">Eğitim Hayatım</a></li>
+                    <li><a href="Yeteneklerim.aspx">Yeteneklerim</a></li>
+                    <li><a href="Iletisim.aspx">İletişim</a></li>
+                    <li><a href="istatistik.aspx">İstatistik</a></li>
+                   
+                </ul>
+            </div>
+        </nav>
+
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                <div class="container">
+                    <h3>Inverted Navbar</h3>
+                    <p>An inverted navbar is black instead of gray.</p>
+                </div>
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+
+</html>
