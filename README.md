@@ -1,6 +1,6 @@
 # CV Entity Projesi
 
-Bu proje, kullanıcıların özgeçmişlerini dijital ortamda yönetmelerini sağlayan bir ASP.NET MVC tabanlı web uygulamasıdır. Kullanıcılar, eğitim bilgileri, iş deneyimleri ve becerilerini dinamik olarak ekleyip düzenleyebilirler.
+Bu proje, kullanıcıların özgeçmişlerini dijital ortamda yönetmelerini sağlayan bir ASP.NET  tabanlı web uygulamasıdır. Kullanıcılar, eğitim bilgileri, iş deneyimleri ve becerilerini dinamik olarak ekleyip düzenleyebilirler.
 
 ## 📌 Proje Özellikleri
 
