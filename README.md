@@ -52,7 +52,9 @@ Projeye katkıda bulunmak için **pull request** açabilirsiniz. Hata bildirimi 
 <br>
 ![image](https://github.com/user-attachments/assets/e5337ea8-1aa3-49f9-98ff-9017576a07aa)
 <br>
-![image](https://github.com/user-attachments/assets/a9f4491a-afff-46ab-8f25-3adf3f918982)
+
+![image](https://github.com/user-attachments/assets/aacd5163-362b-443c-a288-7c79d15af595)
+
 <br>
 ![image](https://github.com/user-attachments/assets/b545c27f-f2a0-42ae-ac4c-76cfe034eefe)
 <br>
